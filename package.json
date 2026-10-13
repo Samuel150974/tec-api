@@ -1,0 +1,22 @@
+{
+  "name": "api-alunos",
+  "version": "1.0.0",
+  "description": "API utilizando nodejs, express e banco de dados MySQL",
+  "main": "app,js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samuel150974/tec-api.git"
+  },
+  "author": "Samuel Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samuel150974/tec-api/issues"
+  },
+  "homepage": "https://github.com/Samuel150974/tec-api#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
