@@ -1,4 +1,4 @@
-{
+{ "type": "module",
   "name": "api-alunos",
   "version": "1.0.0",
   "description": "API utilizando nodejs, express e banco de dados MySQL",
